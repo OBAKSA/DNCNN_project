@@ -1,7 +1,7 @@
-# DNCNN_project
+## DNCNN_project
 Image denoising using DNCNN and other denoising methods
 
-Reference
+# Reference
 
 Burger, H. C., Schuler, C. J., & Harmeling, S. (2012, June). Image denoising: Can plain neural networks compete with BM3D?. In 2012 IEEE conference on computer vision and pattern
 
